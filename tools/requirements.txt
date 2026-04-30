@@ -1,0 +1,8 @@
+# Device Simulator Dependencies
+# Install with: pip install -r requirements.txt
+
+# WebSocket support for real-time telemetry
+websockets>=12.0
+
+# HTTP support for REST API telemetry
+requests>=2.31.0
