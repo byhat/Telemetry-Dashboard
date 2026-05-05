@@ -95,7 +95,7 @@ make
 sudo make install
 
 # Install Qt6
-sudo apt-get install qt6-base-dev qt6-declarative-dev qt6-websockets-dev
+sudo apt-get install qt6-base-dev qt6-declarative-dev qt6-websockets-dev libboost-all-dev
 ```
 
 #### macOS
